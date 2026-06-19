@@ -1,6 +1,11 @@
-## Hi, I'm Raul 👋
+# Hi, I'm Raul 👋
 
-🎮 Working in esports at **PGL**
-🤖 Currently building AI systems — local AI, agents, stuff like this
-💬 Ask me about anything AI related
-📫 How to reach me: **raul.vidis@gmail.com**
+🌐 Web developer at **PGL**, building for esports
+
+🤖 Free time: AI, local models and agents
+
+🌱 Open source and always learning something new
+
+💬 Ask me about web dev or anything AI
+
+📫 Reach me: **raul.vidis@gmail.com**
